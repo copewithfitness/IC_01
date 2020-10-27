@@ -1,0 +1,16 @@
+C:\Users\RFaiz\OneDrive\Desktop\Shape Maker\bin\Debug\netcoreapp3.1\Shape Maker.exe
+C:\Users\RFaiz\OneDrive\Desktop\Shape Maker\bin\Debug\netcoreapp3.1\Shape Maker.deps.json
+C:\Users\RFaiz\OneDrive\Desktop\Shape Maker\bin\Debug\netcoreapp3.1\Shape Maker.runtimeconfig.json
+C:\Users\RFaiz\OneDrive\Desktop\Shape Maker\bin\Debug\netcoreapp3.1\Shape Maker.runtimeconfig.dev.json
+C:\Users\RFaiz\OneDrive\Desktop\Shape Maker\bin\Debug\netcoreapp3.1\Shape Maker.dll
+C:\Users\RFaiz\OneDrive\Desktop\Shape Maker\bin\Debug\netcoreapp3.1\Shape Maker.pdb
+C:\Users\RFaiz\OneDrive\Desktop\Shape Maker\obj\Debug\netcoreapp3.1\Shape Maker.csprojAssemblyReference.cache
+C:\Users\RFaiz\OneDrive\Desktop\Shape Maker\obj\Debug\netcoreapp3.1\Shape_Maker.Form1.resources
+C:\Users\RFaiz\OneDrive\Desktop\Shape Maker\obj\Debug\netcoreapp3.1\Shape Maker.csproj.GenerateResource.cache
+C:\Users\RFaiz\OneDrive\Desktop\Shape Maker\obj\Debug\netcoreapp3.1\Shape Maker.AssemblyInfoInputs.cache
+C:\Users\RFaiz\OneDrive\Desktop\Shape Maker\obj\Debug\netcoreapp3.1\Shape Maker.AssemblyInfo.cs
+C:\Users\RFaiz\OneDrive\Desktop\Shape Maker\obj\Debug\netcoreapp3.1\Shape Maker.csproj.CoreCompileInputs.cache
+C:\Users\RFaiz\OneDrive\Desktop\Shape Maker\obj\Debug\netcoreapp3.1\Shape Maker.dll
+C:\Users\RFaiz\OneDrive\Desktop\Shape Maker\obj\Debug\netcoreapp3.1\Shape Maker.pdb
+C:\Users\RFaiz\OneDrive\Desktop\Shape Maker\obj\Debug\netcoreapp3.1\Shape Maker.genruntimeconfig.cache
+C:\Users\RFaiz\OneDrive\Desktop\Shape Maker\obj\Debug\netcoreapp3.1\Shape_Maker.Properties.Resources.resources

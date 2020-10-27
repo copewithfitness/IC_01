@@ -1,0 +1,60 @@
+C:\Users\RFaiz\source\repos\Calculator\obj\Debug\netcoreapp3.1\Calculator.csprojAssemblyReference.cache
+C:\Users\RFaiz\source\repos\Calculator\obj\Debug\netcoreapp3.1\Calculator.Form.resources
+C:\Users\RFaiz\source\repos\Calculator\obj\Debug\netcoreapp3.1\Calculator.csproj.GenerateResource.cache
+C:\Users\RFaiz\source\repos\Calculator\obj\Debug\netcoreapp3.1\Calculator.AssemblyInfoInputs.cache
+C:\Users\RFaiz\source\repos\Calculator\obj\Debug\netcoreapp3.1\Calculator.AssemblyInfo.cs
+C:\Users\RFaiz\source\repos\Calculator\obj\Debug\netcoreapp3.1\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\RFaiz\source\repos\Calculator\bin\Debug\netcoreapp3.1\Calculator.exe
+C:\Users\RFaiz\source\repos\Calculator\bin\Debug\netcoreapp3.1\Calculator.deps.json
+C:\Users\RFaiz\source\repos\Calculator\bin\Debug\netcoreapp3.1\Calculator.runtimeconfig.json
+C:\Users\RFaiz\source\repos\Calculator\bin\Debug\netcoreapp3.1\Calculator.runtimeconfig.dev.json
+C:\Users\RFaiz\source\repos\Calculator\bin\Debug\netcoreapp3.1\Calculator.dll
+C:\Users\RFaiz\source\repos\Calculator\bin\Debug\netcoreapp3.1\Calculator.pdb
+C:\Users\RFaiz\source\repos\Calculator\obj\Debug\netcoreapp3.1\Calculator.dll
+C:\Users\RFaiz\source\repos\Calculator\obj\Debug\netcoreapp3.1\Calculator.pdb
+C:\Users\RFaiz\source\repos\Calculator\obj\Debug\netcoreapp3.1\Calculator.genruntimeconfig.cache
+C:\Users\RFaiz\OneDrive\Desktop\Calculator\bin\Debug\netcoreapp3.1\Calculator.exe
+C:\Users\RFaiz\OneDrive\Desktop\Calculator\bin\Debug\netcoreapp3.1\Calculator.deps.json
+C:\Users\RFaiz\OneDrive\Desktop\Calculator\bin\Debug\netcoreapp3.1\Calculator.runtimeconfig.json
+C:\Users\RFaiz\OneDrive\Desktop\Calculator\bin\Debug\netcoreapp3.1\Calculator.runtimeconfig.dev.json
+C:\Users\RFaiz\OneDrive\Desktop\Calculator\bin\Debug\netcoreapp3.1\Calculator.dll
+C:\Users\RFaiz\OneDrive\Desktop\Calculator\bin\Debug\netcoreapp3.1\Calculator.pdb
+C:\Users\RFaiz\OneDrive\Desktop\Calculator\obj\Debug\netcoreapp3.1\Calculator.csprojAssemblyReference.cache
+C:\Users\RFaiz\OneDrive\Desktop\Calculator\obj\Debug\netcoreapp3.1\Calculator.Form.resources
+C:\Users\RFaiz\OneDrive\Desktop\Calculator\obj\Debug\netcoreapp3.1\Calculator.csproj.GenerateResource.cache
+C:\Users\RFaiz\OneDrive\Desktop\Calculator\obj\Debug\netcoreapp3.1\Calculator.AssemblyInfoInputs.cache
+C:\Users\RFaiz\OneDrive\Desktop\Calculator\obj\Debug\netcoreapp3.1\Calculator.AssemblyInfo.cs
+C:\Users\RFaiz\OneDrive\Desktop\Calculator\obj\Debug\netcoreapp3.1\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\RFaiz\OneDrive\Desktop\Calculator\obj\Debug\netcoreapp3.1\Calculator.dll
+C:\Users\RFaiz\OneDrive\Desktop\Calculator\obj\Debug\netcoreapp3.1\Calculator.pdb
+C:\Users\RFaiz\OneDrive\Desktop\Calculator\obj\Debug\netcoreapp3.1\Calculator.genruntimeconfig.cache
+C:\Users\RFaiz\OneDrive\Desktop\Fiverr CODE\EXERCISE 3\bin\Debug\netcoreapp3.1\Calculator.exe
+C:\Users\RFaiz\OneDrive\Desktop\Fiverr CODE\EXERCISE 3\bin\Debug\netcoreapp3.1\Calculator.deps.json
+C:\Users\RFaiz\OneDrive\Desktop\Fiverr CODE\EXERCISE 3\bin\Debug\netcoreapp3.1\Calculator.runtimeconfig.json
+C:\Users\RFaiz\OneDrive\Desktop\Fiverr CODE\EXERCISE 3\bin\Debug\netcoreapp3.1\Calculator.runtimeconfig.dev.json
+C:\Users\RFaiz\OneDrive\Desktop\Fiverr CODE\EXERCISE 3\bin\Debug\netcoreapp3.1\Calculator.dll
+C:\Users\RFaiz\OneDrive\Desktop\Fiverr CODE\EXERCISE 3\bin\Debug\netcoreapp3.1\Calculator.pdb
+C:\Users\RFaiz\OneDrive\Desktop\Fiverr CODE\EXERCISE 3\obj\Debug\netcoreapp3.1\Calculator.csprojAssemblyReference.cache
+C:\Users\RFaiz\OneDrive\Desktop\Fiverr CODE\EXERCISE 3\obj\Debug\netcoreapp3.1\Calculator.Form.resources
+C:\Users\RFaiz\OneDrive\Desktop\Fiverr CODE\EXERCISE 3\obj\Debug\netcoreapp3.1\Calculator.csproj.GenerateResource.cache
+C:\Users\RFaiz\OneDrive\Desktop\Fiverr CODE\EXERCISE 3\obj\Debug\netcoreapp3.1\Calculator.AssemblyInfoInputs.cache
+C:\Users\RFaiz\OneDrive\Desktop\Fiverr CODE\EXERCISE 3\obj\Debug\netcoreapp3.1\Calculator.AssemblyInfo.cs
+C:\Users\RFaiz\OneDrive\Desktop\Fiverr CODE\EXERCISE 3\obj\Debug\netcoreapp3.1\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\RFaiz\OneDrive\Desktop\Fiverr CODE\EXERCISE 3\obj\Debug\netcoreapp3.1\Calculator.dll
+C:\Users\RFaiz\OneDrive\Desktop\Fiverr CODE\EXERCISE 3\obj\Debug\netcoreapp3.1\Calculator.pdb
+C:\Users\RFaiz\OneDrive\Desktop\Fiverr CODE\EXERCISE 3\obj\Debug\netcoreapp3.1\Calculator.genruntimeconfig.cache
+C:\Users\RFaiz\OneDrive\Desktop\All\CODE\EXERCISE 3\bin\Debug\netcoreapp3.1\Calculator.exe
+C:\Users\RFaiz\OneDrive\Desktop\All\CODE\EXERCISE 3\bin\Debug\netcoreapp3.1\Calculator.deps.json
+C:\Users\RFaiz\OneDrive\Desktop\All\CODE\EXERCISE 3\bin\Debug\netcoreapp3.1\Calculator.runtimeconfig.json
+C:\Users\RFaiz\OneDrive\Desktop\All\CODE\EXERCISE 3\bin\Debug\netcoreapp3.1\Calculator.runtimeconfig.dev.json
+C:\Users\RFaiz\OneDrive\Desktop\All\CODE\EXERCISE 3\bin\Debug\netcoreapp3.1\Calculator.dll
+C:\Users\RFaiz\OneDrive\Desktop\All\CODE\EXERCISE 3\bin\Debug\netcoreapp3.1\Calculator.pdb
+C:\Users\RFaiz\OneDrive\Desktop\All\CODE\EXERCISE 3\obj\Debug\netcoreapp3.1\Calculator.csprojAssemblyReference.cache
+C:\Users\RFaiz\OneDrive\Desktop\All\CODE\EXERCISE 3\obj\Debug\netcoreapp3.1\Calculator.Form.resources
+C:\Users\RFaiz\OneDrive\Desktop\All\CODE\EXERCISE 3\obj\Debug\netcoreapp3.1\Calculator.csproj.GenerateResource.cache
+C:\Users\RFaiz\OneDrive\Desktop\All\CODE\EXERCISE 3\obj\Debug\netcoreapp3.1\Calculator.AssemblyInfoInputs.cache
+C:\Users\RFaiz\OneDrive\Desktop\All\CODE\EXERCISE 3\obj\Debug\netcoreapp3.1\Calculator.AssemblyInfo.cs
+C:\Users\RFaiz\OneDrive\Desktop\All\CODE\EXERCISE 3\obj\Debug\netcoreapp3.1\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\RFaiz\OneDrive\Desktop\All\CODE\EXERCISE 3\obj\Debug\netcoreapp3.1\Calculator.dll
+C:\Users\RFaiz\OneDrive\Desktop\All\CODE\EXERCISE 3\obj\Debug\netcoreapp3.1\Calculator.pdb
+C:\Users\RFaiz\OneDrive\Desktop\All\CODE\EXERCISE 3\obj\Debug\netcoreapp3.1\Calculator.genruntimeconfig.cache

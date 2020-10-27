@@ -1,0 +1,20 @@
+C:\Users\RFaiz\OneDrive\Desktop\Seconds Convertor\bin\Debug\Seconds Convertor.exe.config
+C:\Users\RFaiz\OneDrive\Desktop\Seconds Convertor\bin\Debug\Seconds Convertor.exe
+C:\Users\RFaiz\OneDrive\Desktop\Seconds Convertor\bin\Debug\Seconds Convertor.pdb
+C:\Users\RFaiz\OneDrive\Desktop\Seconds Convertor\obj\Debug\Seconds Convertor.csprojAssemblyReference.cache
+C:\Users\RFaiz\OneDrive\Desktop\Seconds Convertor\obj\Debug\Seconds_Convertor.Form1.resources
+C:\Users\RFaiz\OneDrive\Desktop\Seconds Convertor\obj\Debug\Seconds_Convertor.Properties.Resources.resources
+C:\Users\RFaiz\OneDrive\Desktop\Seconds Convertor\obj\Debug\Seconds Convertor.csproj.GenerateResource.cache
+C:\Users\RFaiz\OneDrive\Desktop\Seconds Convertor\obj\Debug\Seconds Convertor.csproj.CoreCompileInputs.cache
+C:\Users\RFaiz\OneDrive\Desktop\Seconds Convertor\obj\Debug\Seconds Convertor.exe
+C:\Users\RFaiz\OneDrive\Desktop\Seconds Convertor\obj\Debug\Seconds Convertor.pdb
+C:\Users\RFaiz\OneDrive\Desktop\Fiverr CODE\EXERCISE 4\bin\Debug\Seconds Convertor.exe.config
+C:\Users\RFaiz\OneDrive\Desktop\Fiverr CODE\EXERCISE 4\bin\Debug\Seconds Convertor.exe
+C:\Users\RFaiz\OneDrive\Desktop\Fiverr CODE\EXERCISE 4\bin\Debug\Seconds Convertor.pdb
+C:\Users\RFaiz\OneDrive\Desktop\Fiverr CODE\EXERCISE 4\obj\Debug\Seconds Convertor.csprojAssemblyReference.cache
+C:\Users\RFaiz\OneDrive\Desktop\Fiverr CODE\EXERCISE 4\obj\Debug\Seconds_Convertor.Form1.resources
+C:\Users\RFaiz\OneDrive\Desktop\Fiverr CODE\EXERCISE 4\obj\Debug\Seconds_Convertor.Properties.Resources.resources
+C:\Users\RFaiz\OneDrive\Desktop\Fiverr CODE\EXERCISE 4\obj\Debug\Seconds Convertor.csproj.GenerateResource.cache
+C:\Users\RFaiz\OneDrive\Desktop\Fiverr CODE\EXERCISE 4\obj\Debug\Seconds Convertor.csproj.CoreCompileInputs.cache
+C:\Users\RFaiz\OneDrive\Desktop\Fiverr CODE\EXERCISE 4\obj\Debug\Seconds Convertor.exe
+C:\Users\RFaiz\OneDrive\Desktop\Fiverr CODE\EXERCISE 4\obj\Debug\Seconds Convertor.pdb
